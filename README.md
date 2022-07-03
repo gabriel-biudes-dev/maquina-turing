@@ -1,5 +1,5 @@
 # maquina-turing
-Um simulador de Máquina de Turing determinísticas com Fita Limitada
+Um simulador de Máquina de Turing determinística com Fita Limitada
 
 A máquina deve ser configurada em um arquivo de texto, respeitando a seguinte definição:
 Na primeira linha, deve ser definida a quantidade de estados da máquina.
